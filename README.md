@@ -57,6 +57,10 @@ This project aims to develop an interactive Power BI dashboard to analyze Blinki
 
 11. Insights Generation – Extracting meaningful insights for decision-making.
 
+## DashBoard:
+![Final Dashboard](https://github.com/user-attachments/assets/757bf858-7876-46df-8a21-de5f0ddf126e)
+
+
 ## Project Objectives : 
 
 1️⃣ Provide a comprehensive analysis of Blinkit's business data.
